@@ -1,9 +1,9 @@
 public class Position {
-        int row;
-        int column;
-        Position(int row, int column) {
-            this.row = row;
-            this.column = column;
-        }
-    }
+    int row;
+    int column;
 
+    public Position(int row, int column) {
+        this.row = row;
+        this.column = column;
+    }
+}
